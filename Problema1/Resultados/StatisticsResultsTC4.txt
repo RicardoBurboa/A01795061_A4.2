@@ -1,0 +1,7 @@
+Conteo: 12624
+Promedio: 149.00267347908746
+Mediana: 73.875
+Moda: 123.75
+Desviación Estándar: 130.41441961308902
+Varianza: 17007.92084301886
+Tiempo Transcurrido: 0.010008573532104492 segundos
